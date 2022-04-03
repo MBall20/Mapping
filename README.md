@@ -1,9 +1,6 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-{Provide a description the map software that you wrote. Describe how to use your software.  Describe the source of the data that you used.}
-THis mapping software provides a demo as to how we can more effectively our delivery routes at work. The current method is send everything out in an email, and copy and paste to Google Maps from there. Implementing our routes with GIS mapping allows for more accurate and efficient planning. We can view the map and all delivery information all on the same screen. Most importantly, routes can be planned out to be fuel and mileage efficient. The data used in the map is all self generated.
+This mapping software provides a demo as to how we can more effectively our delivery routes at work. The current method is send everything out in an email, and copy and paste to Google Maps from there. Implementing our routes with GIS mapping allows for more accurate and efficient planning. We can view the map and all delivery information all on the same screen. Most importantly, routes can be planned out to be fuel and mileage efficient. The data used in the map is all self generated.
 
 
 [Software Demo Video](https://www.youtube.com/watch?v=CYiD5BwKhQ4&t=3s)
